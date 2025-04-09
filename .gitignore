@@ -1,0 +1,39 @@
+# Track only essential directories
+/*
+!.gitignore
+!README.md
+!analysis/
+!data/
+!docs/
+!output/
+
+# Exclude large downloadable files
+*.fa
+*.fasta
+*.pkl
+*.blastout
+*.m8
+*.so
+*.jar
+*.tar.gz
+*.tar
+*.conda
+*.bin
+*.bz2
+*.sh
+
+# Explicitly exclude all dependency directories
+dependencies/
+
+# Exclude generated files
+*.log
+*.xml
+formattdb.log
+blast.m8
+BLAST_FINISHED
+NODE_COMPLETE
+TREES_FINISHED
+root.ini
+synteny_data.pkl
+tuple_pairs.pkl
+*/nodes/*/locus_mapping.pkl
