@@ -1,0 +1,17 @@
+//
+Genome  Candida_albicans
+Sequence        /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/calb/C_albicans_SC5314_version_A21-s02-m09-r10_chromosomes.fasta
+Annotation      /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/calb/C_albicans_SC5314_version_A21-s02-m09-r10_features.gff3
+//
+Genome  Candida_glabrata
+Sequence        /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/cgla/C_glabrata_CBS138_current_chromosomes.fasta
+Annotation      /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/cgla/C_glabrata_CBS138_current_features.gff3
+//
+Genome  Kluyveromyces_lactis
+Sequence        /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/klac_fixed/klac_fixed.fasta
+Annotation      /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/klac_fixed/Kluyveromyces_lactis_gca_000002515.ASM251v1.60.gff3
+//
+Genome  Saccharomyces_cerevisiae
+Sequence        /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/scer/GCF_000146045.2_R64_genomic.fasta
+Annotation      /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/scer/S-cer-R64-s288c.gff3
+//
