@@ -1,0 +1,13 @@
+(base) hkicinski@r-lnx612:/mnt/nfs/clasnetappvm/homedirs/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/scripts$ python3 blastp_analysis.py 
+Loaded 3 gene pairs for analysis
+Analyzing CAGL0E00935g vs gene-YDR167W...
+  No significant match found
+Analyzing CAGL0E00891g vs gene-YDR169C...
+  No significant match found
+Analyzing CAGL0E00781g vs gene-YDR172W...
+  No significant match found
+
+No results to analyze
+
+Analysis complete!
+

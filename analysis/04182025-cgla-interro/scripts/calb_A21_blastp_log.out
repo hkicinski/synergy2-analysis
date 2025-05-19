@@ -1,0 +1,22 @@
+nohup: ignoring input
+'num_threads' is currently ignored when 'subject' is specified.
+'num_threads' is currently ignored when 'subject' is specified.
+Running BLASTp: blastp -query /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/synergy_runs/yeast_analysis/nodes/root/root.pep -subject /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/calb-protein-seq/C_albicans_SC5314_A21_current_orf_trans_all.fasta -out /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/blastp_calb_A21_analysis_results/root_to_calb.tsv -evalue 1e-10 -outfmt 6 qseqid sseqid pident qcovs evalue bitscore -num_threads 4
+BLASTp completed in 1329.31 seconds
+Running BLASTp: blastp -query /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/calb-protein-seq/C_albicans_SC5314_A21_current_orf_trans_all.fasta -subject /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/synergy_runs/yeast_analysis/nodes/root/root.pep -out /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/blastp_calb_A21_analysis_results/calb_to_root.tsv -evalue 1e-10 -outfmt 6 qseqid sseqid pident qcovs evalue bitscore -num_threads 4
+BLASTp completed in 1279.77 seconds
+Loading BLASTp results...
+
+BLASTp Analysis Summary:
+Total sequences in root.pep: 16818
+Total C. albicans reference proteins: 6221
+root.pep sequences with C. albicans matches (≥50.0% identity, ≥50.0% coverage): 5831 (34.7%)
+C. albicans proteins with root.pep matches (≥50.0% identity, ≥50.0% coverage): 5644 (90.7%)
+Reciprocal best hits: 6028 (96.9%)
+High quality matches (≥90% identity, ≥90% coverage): 4281 (25.5%)
+
+Interpretation:
+✓ TRANSLATION QUALITY IS GOOD: Most C. albicans proteins have high-quality matches in root.pep
+  The high F1 scores in orthology detection likely reflect this good translation quality.
+
+All analysis results saved to: /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/blastp_calb_A21_analysis_results

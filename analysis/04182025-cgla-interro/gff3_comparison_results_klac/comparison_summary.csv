@@ -1,0 +1,14 @@
+Metric,C. glabrata,K. lactis
+Gene Count,5606,5076
+Transcript Count,5272,5076
+Multi-exon Transcript Count,232,210
+Exon Count,5858,5659
+CDS Count,5430,5251
+Exon-CDS Match Count,414,5076
+Exon-CDS Different Count,4866,0
+Mean UTR Percentage,28.62%,0.00%
+Median UTR Percentage,23.24%,0.00%
+Max UTR Percentage,95.96%,0.00%
+Mean UTR Size (bp),706.70,0.00
+Median UTR Size (bp),427.00,0.00
+Max UTR Size (bp),14129,0

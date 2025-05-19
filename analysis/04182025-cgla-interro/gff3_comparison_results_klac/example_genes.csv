@@ -1,0 +1,10 @@
+Species,Gene ID,Transcript ID,Type,Exon Length,CDS Length,UTR Size,UTR Percentage
+C. glabrata,CAGL0A00099g,CAGL0A00099g-T,Match,15741,15741,0,0.00%
+C. glabrata,CAGL0A00649g,CAGL0A00649g-T,Match,384,384,0,0.00%
+C. glabrata,CAGL0A00715g,CAGL0A00715g-T,Match,291,291,0,0.00%
+C. glabrata,CAGL0A00165g,CAGL0A00165g-T,Different,1105,840,265,23.98%
+C. glabrata,CAGL0A00187g,CAGL0A00187g-T,Different,2738,2271,467,17.06%
+C. glabrata,CAGL0A00209g,CAGL0A00209g-T,Different,2437,2181,256,10.50%
+K. lactis,gene:KLLA0_A00110g,transcript:CAH02592,Match,1047,1047,0,0.00%
+K. lactis,gene:KLLA0_A00132g,transcript:CAH02593,Match,1524,1524,0,0.00%
+K. lactis,gene:KLLA0_A00143g,transcript:CAR65215,Match,219,219,0,0.00%

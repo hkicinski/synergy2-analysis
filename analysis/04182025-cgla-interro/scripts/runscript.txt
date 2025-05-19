@@ -1,0 +1,19 @@
+python3 compare_protein_sequences.py \
+  --file1 /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/gffread-to-root/cgla_proteins.faa \
+  --file2 /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/synergy_runs/yeast_analysis/nodes/root/root.pep \
+  --output_dir /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/gffread-to-root/output
+
+(base) hkicinski@l-lnx600:/mnt/nfs/clasnetappvm/homedirs/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/scripts$ python3 compare_protein_sequences.py \
+  --file1 /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/gffread-to-root/cgla_proteins.faa \
+  --file2 /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/synergy_runs/yeast_analysis/nodes/root/root.pep \
+  --output_dir /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/gffread-to-root/output
+File 1 (gffread): 5280 sequences
+File 2 (root.pep): 16818 sequences
+Running BLASTp: blastp -query /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/gffread-to-root/cgla_proteins.faa -subject /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/synergy_runs/yeast_analysis/nodes/root/root.pep -out /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/04182025-cgla-interro/gffread-to-root/output/gffread_to_root.tsv -outfmt 6 qseqid sseqid pident length qlen slen evalue bitscore -num_threads 4
+'num_threads' is currently ignored when 'subject' is specified.
+FASTA-Reader: Ignoring invalid residues at position(s): On line 2489: 63
+FASTA-Reader: Ignoring invalid residues at position(s): On line 5306: 28, 30, 32, 34, 40, 50, 59-60, 67
+FASTA-Reader: Ignoring invalid residues at position(s): On line 5307: 17, 25, 28, 31
+FASTA-Reader: Ignoring invalid residues at position(s): On line 5925: 30
+
+
