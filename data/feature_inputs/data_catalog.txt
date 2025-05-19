@@ -5,7 +5,7 @@ Annotation      /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature
 //
 Genome  Candida_glabrata
 Sequence        /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/cgla/C_glabrata_CBS138_current_chromosomes.fasta
-Annotation      /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/cgla/C_glabrata_CBS138_current_features.gff3
+Annotation      /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/cgla/C_glabrata_CBS138_current_features_modified.gff3
 //
 Genome  Kluyveromyces_lactis
 Sequence        /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/data/feature_inputs/klac_fixed/klac_fixed.fasta
