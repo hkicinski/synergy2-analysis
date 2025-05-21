@@ -1,0 +1,6 @@
+cluster_id,C_albicans,C_glabrata,K_lactis,S_cerevisiae,unknown,species_count,classification
+Cluster3662,1,3,1,3,0,4,multi_copy_ortholog
+Cluster427,0,2,0,3,0,2,partial_ortholog
+Cluster7421,1,2,1,3,0,4,multi_copy_ortholog
+Cluster7510,1,3,2,3,0,4,multi_copy_ortholog
+Cluster9216,1,2,1,3,0,4,multi_copy_ortholog

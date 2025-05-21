@@ -1,0 +1,12 @@
+species,category,count
+C_albicans,paralog,131
+C_albicans,pure_ortholog,3176
+C_glabrata,ohnolog,424
+C_glabrata,paralog,61
+C_glabrata,pure_ortholog,3176
+K_lactis,paralog,72
+K_lactis,pure_ortholog,3176
+S_cerevisiae,ohnolog,600
+S_cerevisiae,paralog,73
+S_cerevisiae,pure_ortholog,3176
+unknown,paralog,4

@@ -1,0 +1,45 @@
+SYNERGY2 Cluster Parser with Sanity Checks
+==========================================
+Input file: /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/synergy_runs/yeast_analysis_run2/nodes/root/final_clusters.txt
+Output directory: /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/cluster-parsed
+Started at: 2025-05-20 14:21:01.192256
+
+Parsing cluster file...
+Parsed 9563 clusters with 23602 total genes
+Found 5304 clusters (55.46%) with multiple genes
+Found 5248 clusters (54.88%) with multiple species
+Extracted 23602 genes across 9563 clusters
+
+Species distribution:
+  S_cerevisiae: 6413 genes (27.17%)
+  C_albicans: 6194 genes (26.24%)
+  C_glabrata: 5569 genes (23.60%)
+  K_lactis: 5076 genes (21.51%)
+  unknown: 350 genes (1.48%)
+
+Clusters by number of species:
+  1 species: 4288 clusters (44.84%)
+  2 species: 762 clusters (7.97%)
+  3 species: 990 clusters (10.35%)
+  4 species: 3523 clusters (36.84%)
+
+Single-copy orthologs (one gene from each species): 3176 clusters
+Single-copy orthologs represent 33.21% of all clusters
+
+Generating validation visualizations...
+
+Saving output files to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/cluster-parsed
+
+SANITY CHECK SUMMARY:
+  1. Input file exists and was parsed: ✓
+  2. Parsed 9563 clusters: ✓
+  3. Multi-gene clusters: ✓
+  4. Multi-species clusters: ✓
+  5. All expected species detected: ✓
+  6. Single-copy orthologs detected: ✓
+  7. Validation visualizations generated: ✓
+  8. Output files created: ✓
+
+All sanity checks PASSED. Results appear valid and ready for further analysis.
+
+Completed at: 2025-05-20 14:21:04.238809

@@ -1,0 +1,48 @@
+SYNERGY2 Cluster Analysis
+=======================
+Input directory: /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/cluster-parsed
+Output directory: /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro
+Started at: 2025-05-20 14:55:31.922864
+
+Loading parsed data...
+Loaded 23602 genes across 9563 clusters
+Validation: 55.46% of clusters contain multiple genes
+
+Analyzing cluster compositions...
+Saved cluster composition data to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/cluster_compositions.csv
+
+Classifying clusters by composition pattern...
+Cluster classifications:
+  single_copy_ortholog: 3176 clusters (33.21%)
+  C_albicans_specific: 1889 clusters (19.75%)
+  partial_ortholog: 1726 clusters (18.05%)
+  S_cerevisiae_specific: 1102 clusters (11.52%)
+  C_glabrata_specific: 619 clusters (6.47%)
+  K_lactis_specific: 435 clusters (4.55%)
+  multi_copy_ortholog: 346 clusters (3.62%)
+  other: 270 clusters (2.82%)
+Saved cluster classifications to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/cluster_classifications.csv
+
+Analyzing single-copy orthologs...
+Saved 3176 single-copy ortholog clusters to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/single_copy_orthologs.csv
+
+Analyzing species-specific expansions...
+  C_albicans: 1 clusters with gene expansions
+  Saved top expansions to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/C_albicans_expansions.csv
+  C_glabrata: 5 clusters with gene expansions
+  Saved top expansions to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/C_glabrata_expansions.csv
+  S_cerevisiae: 5 clusters with gene expansions
+  Saved top expansions to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/S_cerevisiae_expansions.csv
+
+Analyzing ortholog conservation patterns...
+  C_albicans: 69.50% of genes have orthologs in other species
+  C_glabrata: 89.12% of genes have orthologs in other species
+  K_lactis: 91.45% of genes have orthologs in other species
+  S_cerevisiae: 83.02% of genes have orthologs in other species
+
+Generating visualizations...
+
+Generating summary report...
+
+Analysis complete! Results saved to /space/hkicinski/Documents/E009-hk-Homology_SYNERGY/analysis/05202025-synergy2-output-interro/
+Completed at: 2025-05-20 14:56:05.159051

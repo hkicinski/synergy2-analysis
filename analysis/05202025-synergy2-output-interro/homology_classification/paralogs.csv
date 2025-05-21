@@ -1,0 +1,342 @@
+cluster_id,gene_id,species,homology_class,paralog_partners,ortholog_partners,duplication_type,duplication_subtype
+Cluster103,orf19.6679,C_albicans,paralog,['orf19.4789'],{'K_lactis': 'gene:KLLA0_B12980g'},small_scale_duplication,unclassified
+Cluster103,orf19.4789,C_albicans,paralog,['orf19.6679'],{'K_lactis': 'gene:KLLA0_B12980g'},small_scale_duplication,unclassified
+Cluster1066,orf19.470,C_albicans,paralog,['orf19.6820'],"{'S_cerevisiae': 'gene-YDR145W', 'C_glabrata': 'CAGL0E01397g', 'K_lactis': 'gene:KLLA0_D16368g'}",small_scale_duplication,unclassified
+Cluster1066,orf19.6820,C_albicans,paralog,['orf19.470'],"{'S_cerevisiae': 'gene-YDR145W', 'C_glabrata': 'CAGL0E01397g', 'K_lactis': 'gene:KLLA0_D16368g'}",small_scale_duplication,unclassified
+Cluster1087,CAGL0D02662g,C_glabrata,paralog,['CAGL0D02640g'],{'S_cerevisiae': 'gene-YFL011W'},small_scale_duplication,unclassified
+Cluster1087,CAGL0D02640g,C_glabrata,paralog,['CAGL0D02662g'],{'S_cerevisiae': 'gene-YFL011W'},small_scale_duplication,unclassified
+Cluster1087,gene-YFL011W,S_cerevisiae,paralog,['gene-YMR011W'],{'C_glabrata': 'CAGL0D02662g'},small_scale_duplication,unclassified
+Cluster1087,gene-YMR011W,S_cerevisiae,paralog,['gene-YFL011W'],{'C_glabrata': 'CAGL0D02662g'},small_scale_duplication,unclassified
+Cluster1101,gene-YEL017C-A,S_cerevisiae,paralog,['gene-YCR024C-A'],{'C_glabrata': 'CAGL0L08008g'},small_scale_duplication,unclassified
+Cluster1101,gene-YCR024C-A,S_cerevisiae,paralog,['gene-YEL017C-A'],{'C_glabrata': 'CAGL0L08008g'},small_scale_duplication,unclassified
+Cluster1101,CAGL0L08008g,C_glabrata,paralog,['CAGL0M03305g'],{'S_cerevisiae': 'gene-YEL017C-A'},small_scale_duplication,unclassified
+Cluster1101,CAGL0M03305g,C_glabrata,paralog,['CAGL0L08008g'],{'S_cerevisiae': 'gene-YEL017C-A'},small_scale_duplication,unclassified
+Cluster1148,orf19.4589,C_albicans,paralog,['orf19.7323'],"{'S_cerevisiae': 'gene-YMR020W', 'C_glabrata': 'CAGL0M07612g', 'K_lactis': 'gene:KLLA0_E07789g'}",small_scale_duplication,unclassified
+Cluster1148,orf19.7323,C_albicans,paralog,['orf19.4589'],"{'S_cerevisiae': 'gene-YMR020W', 'C_glabrata': 'CAGL0M07612g', 'K_lactis': 'gene:KLLA0_E07789g'}",small_scale_duplication,unclassified
+Cluster1167,gene:KLLA0_E22089g,K_lactis,paralog,['gene:KLLA0_B14729g'],{'C_albicans': 'orf19.3567'},small_scale_duplication,unclassified
+Cluster1167,gene:KLLA0_B14729g,K_lactis,paralog,['gene:KLLA0_E22089g'],{'C_albicans': 'orf19.3567'},small_scale_duplication,unclassified
+Cluster132,gene-YNCK0010W,S_cerevisiae,paralog,['gene-YNCJ0019C'],{'C_glabrata': 'CAGL0F07205r'},small_scale_duplication,unclassified
+Cluster132,gene-YNCJ0019C,S_cerevisiae,paralog,['gene-YNCK0010W'],{'C_glabrata': 'CAGL0F07205r'},small_scale_duplication,unclassified
+Cluster132,CAGL0F07205r,C_glabrata,paralog,['CAGL0G09405r'],{'S_cerevisiae': 'gene-YNCK0010W'},small_scale_duplication,unclassified
+Cluster132,CAGL0G09405r,C_glabrata,paralog,['CAGL0F07205r'],{'S_cerevisiae': 'gene-YNCK0010W'},small_scale_duplication,unclassified
+Cluster1334,orf19.1691,C_albicans,paralog,['orf19.409'],"{'S_cerevisiae': 'gene-YNR018W', 'C_glabrata': 'CAGL0M10549g', 'K_lactis': 'gene:KLLA0_F06006g'}",small_scale_duplication,unclassified
+Cluster1334,orf19.409,C_albicans,paralog,['orf19.1691'],"{'S_cerevisiae': 'gene-YNR018W', 'C_glabrata': 'CAGL0M10549g', 'K_lactis': 'gene:KLLA0_F06006g'}",small_scale_duplication,unclassified
+Cluster14,gene-YNCO0002W,S_cerevisiae,paralog,['gene-YNCJ0001C'],{'C_glabrata': 'CAGL0C04070r'},small_scale_duplication,unclassified
+Cluster14,gene-YNCJ0001C,S_cerevisiae,paralog,['gene-YNCO0002W'],{'C_glabrata': 'CAGL0C04070r'},small_scale_duplication,unclassified
+Cluster1434,orf19.555,C_albicans,paralog,['orf19.654'],"{'S_cerevisiae': 'gene-YKL163W', 'C_glabrata': 'CAGL0M08514g', 'K_lactis': 'gene:KLLA0_B07447g'}",small_scale_duplication,unclassified
+Cluster1434,orf19.654,C_albicans,paralog,['orf19.555'],"{'S_cerevisiae': 'gene-YKL163W', 'C_glabrata': 'CAGL0M08514g', 'K_lactis': 'gene:KLLA0_B07447g'}",small_scale_duplication,unclassified
+Cluster1437,orf19.6680,C_albicans,paralog,['orf19.4568'],{'K_lactis': 'gene:KLLA0_E13993g'},small_scale_duplication,unclassified
+Cluster1437,orf19.4568,C_albicans,paralog,['orf19.6680'],{'K_lactis': 'gene:KLLA0_E13993g'},small_scale_duplication,unclassified
+Cluster1444,gene:KLLA0_F04609g,K_lactis,paralog,['gene:KLLA0_C03201g'],"{'S_cerevisiae': 'gene-YIL130W', 'C_glabrata': 'CAGL0G08844g', 'C_albicans': 'orf19.166'}",small_scale_duplication,unclassified
+Cluster1444,gene:KLLA0_C03201g,K_lactis,paralog,['gene:KLLA0_F04609g'],"{'S_cerevisiae': 'gene-YIL130W', 'C_glabrata': 'CAGL0G08844g', 'C_albicans': 'orf19.166'}",small_scale_duplication,unclassified
+Cluster1447,orf19.6758,C_albicans,paralog,['orf19.6757'],"{'S_cerevisiae': 'gene-YDR368W', 'C_glabrata': 'CAGL0A02816g', 'K_lactis': 'gene:KLLA0_B14707g'}",small_scale_duplication,unclassified
+Cluster1447,orf19.6757,C_albicans,paralog,['orf19.6758'],"{'S_cerevisiae': 'gene-YDR368W', 'C_glabrata': 'CAGL0A02816g', 'K_lactis': 'gene:KLLA0_B14707g'}",small_scale_duplication,unclassified
+Cluster1447,gene:KLLA0_B14707g,K_lactis,paralog,['gene:KLLA0_D10109g'],"{'S_cerevisiae': 'gene-YDR368W', 'C_glabrata': 'CAGL0A02816g', 'C_albicans': 'orf19.6758'}",small_scale_duplication,unclassified
+Cluster1447,gene:KLLA0_D10109g,K_lactis,paralog,['gene:KLLA0_B14707g'],"{'S_cerevisiae': 'gene-YDR368W', 'C_glabrata': 'CAGL0A02816g', 'C_albicans': 'orf19.6758'}",small_scale_duplication,unclassified
+Cluster1447,CAGL0A02816g,C_glabrata,paralog,['CAGL0I01100g'],"{'S_cerevisiae': 'gene-YDR368W', 'C_albicans': 'orf19.6758', 'K_lactis': 'gene:KLLA0_B14707g'}",small_scale_duplication,unclassified
+Cluster1447,CAGL0I01100g,C_glabrata,paralog,['CAGL0A02816g'],"{'S_cerevisiae': 'gene-YDR368W', 'C_albicans': 'orf19.6758', 'K_lactis': 'gene:KLLA0_B14707g'}",small_scale_duplication,unclassified
+Cluster1447,gene-YDR368W,S_cerevisiae,paralog,['gene-YOR120W'],"{'C_glabrata': 'CAGL0A02816g', 'C_albicans': 'orf19.6758', 'K_lactis': 'gene:KLLA0_B14707g'}",small_scale_duplication,unclassified
+Cluster1447,gene-YOR120W,S_cerevisiae,paralog,['gene-YDR368W'],"{'C_glabrata': 'CAGL0A02816g', 'C_albicans': 'orf19.6758', 'K_lactis': 'gene:KLLA0_B14707g'}",small_scale_duplication,unclassified
+Cluster1570,gene:KLLA0_F19371g,K_lactis,paralog,['gene:KLLA0_F19382g'],"{'S_cerevisiae': 'gene-YDR119W-A', 'C_glabrata': 'CAGL0B01875g'}",small_scale_duplication,unclassified
+Cluster1570,gene:KLLA0_F19382g,K_lactis,paralog,['gene:KLLA0_F19371g'],"{'S_cerevisiae': 'gene-YDR119W-A', 'C_glabrata': 'CAGL0B01875g'}",small_scale_duplication,unclassified
+Cluster168,orf19.5058,C_albicans,paralog,['orf19.6972'],"{'S_cerevisiae': 'gene-YGR229C', 'C_glabrata': 'CAGL0L06534g', 'K_lactis': 'gene:KLLA0_E15775g'}",small_scale_duplication,unclassified
+Cluster168,orf19.6972,C_albicans,paralog,['orf19.5058'],"{'S_cerevisiae': 'gene-YGR229C', 'C_glabrata': 'CAGL0L06534g', 'K_lactis': 'gene:KLLA0_E15775g'}",small_scale_duplication,unclassified
+Cluster1707,orf19.6867,C_albicans,paralog,['orf19.1034'],{'K_lactis': 'gene:KLLA0_B04796g'},small_scale_duplication,unclassified
+Cluster1707,orf19.1034,C_albicans,paralog,['orf19.6867'],{'K_lactis': 'gene:KLLA0_B04796g'},small_scale_duplication,unclassified
+Cluster1739,gene-YNCB0002W,S_cerevisiae,paralog,['gene-YNCG0020C'],{'C_glabrata': 'CAGL0K09636r'},small_scale_duplication,unclassified
+Cluster1739,gene-YNCG0020C,S_cerevisiae,paralog,['gene-YNCB0002W'],{'C_glabrata': 'CAGL0K09636r'},small_scale_duplication,unclassified
+Cluster1739,CAGL0K09636r,C_glabrata,paralog,['CAGL0F02189r'],{'S_cerevisiae': 'gene-YNCB0002W'},small_scale_duplication,unclassified
+Cluster1739,CAGL0F02189r,C_glabrata,paralog,['CAGL0K09636r'],{'S_cerevisiae': 'gene-YNCB0002W'},small_scale_duplication,unclassified
+Cluster1762,CAGL0A01496r,C_glabrata,paralog,['CAGL0E03377r'],{'S_cerevisiae': 'gene-YNCF0005C'},small_scale_duplication,unclassified
+Cluster1762,CAGL0E03377r,C_glabrata,paralog,['CAGL0A01496r'],{'S_cerevisiae': 'gene-YNCF0005C'},small_scale_duplication,unclassified
+Cluster1788,gene:KLLA0_E00903g,K_lactis,paralog,['gene:KLLA0_F00814g'],"{'S_cerevisiae': 'gene-YER155C', 'C_glabrata': 'CAGL0I06512g', 'C_albicans': 'orf19.2771'}",small_scale_duplication,unclassified
+Cluster1788,gene:KLLA0_F00814g,K_lactis,paralog,['gene:KLLA0_E00903g'],"{'S_cerevisiae': 'gene-YER155C', 'C_glabrata': 'CAGL0I06512g', 'C_albicans': 'orf19.2771'}",small_scale_duplication,unclassified
+Cluster1861,orf19.4690,C_albicans,paralog,['orf19.5022'],"{'S_cerevisiae': 'gene-YHR050W', 'C_glabrata': 'CAGL0J00407g', 'K_lactis': 'gene:KLLA0_D09581g'}",small_scale_duplication,unclassified
+Cluster1861,orf19.5022,C_albicans,paralog,['orf19.4690'],"{'S_cerevisiae': 'gene-YHR050W', 'C_glabrata': 'CAGL0J00407g', 'K_lactis': 'gene:KLLA0_D09581g'}",small_scale_duplication,unclassified
+Cluster1987,orf19.4279,C_albicans,paralog,['orf19.4900'],"{'S_cerevisiae': 'gene-YIL014W', 'C_glabrata': 'CAGL0C03916g', 'K_lactis': 'gene:KLLA0_D13376g'}",small_scale_duplication,unclassified
+Cluster1987,orf19.4900,C_albicans,paralog,['orf19.4279'],"{'S_cerevisiae': 'gene-YIL014W', 'C_glabrata': 'CAGL0C03916g', 'K_lactis': 'gene:KLLA0_D13376g'}",small_scale_duplication,unclassified
+Cluster200,orf19.4647,C_albicans,paralog,['orf19.517'],"{'S_cerevisiae': 'gene-YBL021C', 'C_glabrata': 'CAGL0J04400g', 'K_lactis': 'gene:KLLA0_E10429g'}",small_scale_duplication,unclassified
+Cluster200,orf19.517,C_albicans,paralog,['orf19.4647'],"{'S_cerevisiae': 'gene-YBL021C', 'C_glabrata': 'CAGL0J04400g', 'K_lactis': 'gene:KLLA0_E10429g'}",small_scale_duplication,unclassified
+Cluster2102,orf19.5826,C_albicans,paralog,['orf19.5820'],"{'S_cerevisiae': 'gene-YDL210W', 'K_lactis': 'gene:KLLA0_E12959g'}",small_scale_duplication,unclassified
+Cluster2102,orf19.5820,C_albicans,paralog,['orf19.5826'],"{'S_cerevisiae': 'gene-YDL210W', 'K_lactis': 'gene:KLLA0_E12959g'}",small_scale_duplication,unclassified
+Cluster2102,gene:KLLA0_E12959g,K_lactis,paralog,['gene:KLLA0_E24993g'],"{'S_cerevisiae': 'gene-YDL210W', 'C_albicans': 'orf19.5826'}",small_scale_duplication,unclassified
+Cluster2102,gene:KLLA0_E24993g,K_lactis,paralog,['gene:KLLA0_E12959g'],"{'S_cerevisiae': 'gene-YDL210W', 'C_albicans': 'orf19.5826'}",small_scale_duplication,unclassified
+Cluster2325,orf19.1499,C_albicans,paralog,['orf19.4145'],{'K_lactis': 'gene:KLLA0_D11286g'},small_scale_duplication,unclassified
+Cluster2325,orf19.4145,C_albicans,paralog,['orf19.1499'],{'K_lactis': 'gene:KLLA0_D11286g'},small_scale_duplication,unclassified
+Cluster241,gene-YDL130W-A,S_cerevisiae,paralog,['gene-YDL181W'],{'C_glabrata': 'CAGL0J06380g'},small_scale_duplication,unclassified
+Cluster241,gene-YDL181W,S_cerevisiae,paralog,['gene-YDL130W-A'],{'C_glabrata': 'CAGL0J06380g'},small_scale_duplication,unclassified
+Cluster241,CAGL0J06380g,C_glabrata,paralog,['CAGL0J09262g'],{'S_cerevisiae': 'gene-YDL130W-A'},small_scale_duplication,unclassified
+Cluster241,CAGL0J09262g,C_glabrata,paralog,['CAGL0J06380g'],{'S_cerevisiae': 'gene-YDL130W-A'},small_scale_duplication,unclassified
+Cluster2585,gene-YNCM0018C,S_cerevisiae,paralog,['gene-YNCP0022W'],{'C_glabrata': 'CAGL0A02068r'},small_scale_duplication,unclassified
+Cluster2585,gene-YNCP0022W,S_cerevisiae,paralog,['gene-YNCM0018C'],{'C_glabrata': 'CAGL0A02068r'},small_scale_duplication,unclassified
+Cluster2626,orf19.5326,C_albicans,paralog,['orf19.4318'],"{'S_cerevisiae': 'gene-YGL035C', 'C_glabrata': 'CAGL0A01628g'}",small_scale_duplication,unclassified
+Cluster2626,orf19.4318,C_albicans,paralog,['orf19.5326'],"{'S_cerevisiae': 'gene-YGL035C', 'C_glabrata': 'CAGL0A01628g'}",small_scale_duplication,unclassified
+Cluster2629,gene:KLLA0_A10439g,K_lactis,paralog,['gene:KLLA0_E14609g'],{'S_cerevisiae': 'gene-YHL040C'},small_scale_duplication,unclassified
+Cluster2629,gene:KLLA0_E14609g,K_lactis,paralog,['gene:KLLA0_A10439g'],{'S_cerevisiae': 'gene-YHL040C'},small_scale_duplication,unclassified
+Cluster2636,orf19.2743,C_albicans,paralog,['orf19.2730'],"{'S_cerevisiae': 'gene-YER169W', 'C_glabrata': 'CAGL0L11880g', 'K_lactis': 'gene:KLLA0_C17710g'}",small_scale_duplication,unclassified
+Cluster2636,orf19.2730,C_albicans,paralog,['orf19.2743'],"{'S_cerevisiae': 'gene-YER169W', 'C_glabrata': 'CAGL0L11880g', 'K_lactis': 'gene:KLLA0_C17710g'}",small_scale_duplication,unclassified
+Cluster2892,orf19.4802,C_albicans,paralog,['orf19.3227'],"{'S_cerevisiae': 'gene-YBR207W', 'C_glabrata': 'CAGL0M05511g', 'K_lactis': 'gene:KLLA0_F28039g'}",small_scale_duplication,unclassified
+Cluster2892,orf19.3227,C_albicans,paralog,['orf19.4802'],"{'S_cerevisiae': 'gene-YBR207W', 'C_glabrata': 'CAGL0M05511g', 'K_lactis': 'gene:KLLA0_F28039g'}",small_scale_duplication,unclassified
+Cluster2896,CAGL0I02618r,C_glabrata,paralog,['CAGL0K10538r'],{'S_cerevisiae': 'gene-YNCF0007W'},small_scale_duplication,unclassified
+Cluster2896,CAGL0K10538r,C_glabrata,paralog,['CAGL0I02618r'],{'S_cerevisiae': 'gene-YNCF0007W'},small_scale_duplication,unclassified
+Cluster2972,gene-YNCH0009C,S_cerevisiae,paralog,['gene-YNCP0008C'],{'C_glabrata': 'CAGL0F06281r'},small_scale_duplication,unclassified
+Cluster2972,gene-YNCP0008C,S_cerevisiae,paralog,['gene-YNCH0009C'],{'C_glabrata': 'CAGL0F06281r'},small_scale_duplication,unclassified
+Cluster3126,orf19.918,C_albicans,paralog,['orf19.5958'],{'S_cerevisiae': 'gene-YOR328W'},small_scale_duplication,unclassified
+Cluster3126,orf19.5958,C_albicans,paralog,['orf19.918'],{'S_cerevisiae': 'gene-YOR328W'},small_scale_duplication,unclassified
+Cluster3159,orf19.2619,C_albicans,paralog,['orf19.3727'],{'S_cerevisiae': 'gene-YAR071W'},small_scale_duplication,unclassified
+Cluster3159,orf19.3727,C_albicans,paralog,['orf19.2619'],{'S_cerevisiae': 'gene-YAR071W'},small_scale_duplication,unclassified
+Cluster3171,orf19.6501,C_albicans,paralog,['orf19.782'],"{'S_cerevisiae': 'gene-YBR204C', 'C_glabrata': 'CAGL0M05467g', 'K_lactis': 'gene:KLLA0_E23035g'}",small_scale_duplication,unclassified
+Cluster3171,orf19.782,C_albicans,paralog,['orf19.6501'],"{'S_cerevisiae': 'gene-YBR204C', 'C_glabrata': 'CAGL0M05467g', 'K_lactis': 'gene:KLLA0_E23035g'}",small_scale_duplication,unclassified
+Cluster3178,orf19.6283,C_albicans,paralog,['orf19.2067'],"{'S_cerevisiae': 'gene-YKL040C', 'C_glabrata': 'CAGL0L01859g', 'K_lactis': 'gene:KLLA0_F25476g'}",small_scale_duplication,unclassified
+Cluster3178,orf19.2067,C_albicans,paralog,['orf19.6283'],"{'S_cerevisiae': 'gene-YKL040C', 'C_glabrata': 'CAGL0L01859g', 'K_lactis': 'gene:KLLA0_F25476g'}",small_scale_duplication,unclassified
+Cluster3189,orf19.6242,C_albicans,paralog,['orf19.2791'],"{'S_cerevisiae': 'gene-YJL020C', 'C_glabrata': 'CAGL0G06842g', 'K_lactis': 'gene:KLLA0_F14575g'}",small_scale_duplication,unclassified
+Cluster3189,orf19.2791,C_albicans,paralog,['orf19.6242'],"{'S_cerevisiae': 'gene-YJL020C', 'C_glabrata': 'CAGL0G06842g', 'K_lactis': 'gene:KLLA0_F14575g'}",small_scale_duplication,unclassified
+Cluster319,gene:KLLA0_E11133g,K_lactis,paralog,['gene:KLLA0_E11155g'],"{'S_cerevisiae': 'gene-YMR265C', 'C_glabrata': 'CAGL0H02299g'}",small_scale_duplication,unclassified
+Cluster319,gene:KLLA0_E11155g,K_lactis,paralog,['gene:KLLA0_E11133g'],"{'S_cerevisiae': 'gene-YMR265C', 'C_glabrata': 'CAGL0H02299g'}",small_scale_duplication,unclassified
+Cluster32,CAGL0M11132r,C_glabrata,paralog,['CAGL0I08657r'],{'S_cerevisiae': 'gene-YNCK0017W'},small_scale_duplication,unclassified
+Cluster32,CAGL0I08657r,C_glabrata,paralog,['CAGL0M11132r'],{'S_cerevisiae': 'gene-YNCK0017W'},small_scale_duplication,unclassified
+Cluster3242,gene-YNCA0004W,S_cerevisiae,paralog,['gene-YNCG0036W'],{'C_glabrata': 'CAGL0G00770r'},small_scale_duplication,unclassified
+Cluster3242,gene-YNCG0036W,S_cerevisiae,paralog,['gene-YNCA0004W'],{'C_glabrata': 'CAGL0G00770r'},small_scale_duplication,unclassified
+Cluster325,orf19.3139,C_albicans,paralog,['orf19.3544'],"{'S_cerevisiae': 'gene-YML131W', 'C_glabrata': 'CAGL0K12958g'}",small_scale_duplication,unclassified
+Cluster325,orf19.3544,C_albicans,paralog,['orf19.3139'],"{'S_cerevisiae': 'gene-YML131W', 'C_glabrata': 'CAGL0K12958g'}",small_scale_duplication,unclassified
+Cluster3256,gene:KLLA0_D15059g,K_lactis,paralog,['gene:KLLA0_D10868g'],"{'S_cerevisiae': 'gene-YPR114W', 'C_glabrata': 'CAGL0B04191g', 'C_albicans': 'orf19.3051'}",small_scale_duplication,unclassified
+Cluster3256,gene:KLLA0_D10868g,K_lactis,paralog,['gene:KLLA0_D15059g'],"{'S_cerevisiae': 'gene-YPR114W', 'C_glabrata': 'CAGL0B04191g', 'C_albicans': 'orf19.3051'}",small_scale_duplication,unclassified
+Cluster326,orf19.238,C_albicans,paralog,['orf19.584'],"{'S_cerevisiae': 'gene-YKR066C', 'C_glabrata': 'CAGL0K08184g', 'K_lactis': 'gene:KLLA0_B07557g'}",small_scale_duplication,unclassified
+Cluster326,orf19.584,C_albicans,paralog,['orf19.238'],"{'S_cerevisiae': 'gene-YKR066C', 'C_glabrata': 'CAGL0K08184g', 'K_lactis': 'gene:KLLA0_B07557g'}",small_scale_duplication,unclassified
+Cluster3340,orf19.1167,C_albicans,paralog,['orf19.6398'],"{'S_cerevisiae': 'gene-YLL057C', 'K_lactis': 'gene:KLLA0_F26158g'}",small_scale_duplication,unclassified
+Cluster3340,orf19.6398,C_albicans,paralog,['orf19.1167'],"{'S_cerevisiae': 'gene-YLL057C', 'K_lactis': 'gene:KLLA0_F26158g'}",small_scale_duplication,unclassified
+Cluster3601,gene-YNCN0007W,S_cerevisiae,paralog,['gene-YNCG0040C'],{'C_glabrata': 'CAGL0F08899r'},small_scale_duplication,unclassified
+Cluster3601,gene-YNCG0040C,S_cerevisiae,paralog,['gene-YNCN0007W'],{'C_glabrata': 'CAGL0F08899r'},small_scale_duplication,unclassified
+Cluster3601,CAGL0F08899r,C_glabrata,paralog,['CAGL0B03135r'],{'S_cerevisiae': 'gene-YNCN0007W'},small_scale_duplication,unclassified
+Cluster3601,CAGL0B03135r,C_glabrata,paralog,['CAGL0F08899r'],{'S_cerevisiae': 'gene-YNCN0007W'},small_scale_duplication,unclassified
+Cluster3662,CAGL0G03289g,C_glabrata,paralog,"['CAGL0K04741g', 'CAGL0C05379g']","{'S_cerevisiae': 'gene-YER103W', 'C_albicans': 'orf19.6367', 'K_lactis': 'gene:KLLA0_D19041g'}",small_scale_duplication,unclassified
+Cluster3662,CAGL0K04741g,C_glabrata,paralog,"['CAGL0G03289g', 'CAGL0C05379g']","{'S_cerevisiae': 'gene-YER103W', 'C_albicans': 'orf19.6367', 'K_lactis': 'gene:KLLA0_D19041g'}",small_scale_duplication,unclassified
+Cluster3662,CAGL0C05379g,C_glabrata,paralog,"['CAGL0G03289g', 'CAGL0K04741g']","{'S_cerevisiae': 'gene-YER103W', 'C_albicans': 'orf19.6367', 'K_lactis': 'gene:KLLA0_D19041g'}",small_scale_duplication,unclassified
+Cluster3662,gene-YER103W,S_cerevisiae,paralog,"['gene-YNL209W', 'gene-YDL229W']","{'C_glabrata': 'CAGL0G03289g', 'C_albicans': 'orf19.6367', 'K_lactis': 'gene:KLLA0_D19041g'}",small_scale_duplication,unclassified
+Cluster3662,gene-YNL209W,S_cerevisiae,paralog,"['gene-YER103W', 'gene-YDL229W']","{'C_glabrata': 'CAGL0G03289g', 'C_albicans': 'orf19.6367', 'K_lactis': 'gene:KLLA0_D19041g'}",small_scale_duplication,unclassified
+Cluster3662,gene-YDL229W,S_cerevisiae,paralog,"['gene-YER103W', 'gene-YNL209W']","{'C_glabrata': 'CAGL0G03289g', 'C_albicans': 'orf19.6367', 'K_lactis': 'gene:KLLA0_D19041g'}",small_scale_duplication,unclassified
+Cluster3695,CAGL0I09944r,C_glabrata,paralog,['CAGL0K03311r'],{'S_cerevisiae': 'gene-YNCM0035C'},small_scale_duplication,unclassified
+Cluster3695,CAGL0K03311r,C_glabrata,paralog,['CAGL0I09944r'],{'S_cerevisiae': 'gene-YNCM0035C'},small_scale_duplication,unclassified
+Cluster3695,gene-YNCM0035C,S_cerevisiae,paralog,['gene-YNCK0019W'],{'C_glabrata': 'CAGL0I09944r'},small_scale_duplication,unclassified
+Cluster3695,gene-YNCK0019W,S_cerevisiae,paralog,['gene-YNCM0035C'],{'C_glabrata': 'CAGL0I09944r'},small_scale_duplication,unclassified
+Cluster3802,gene:KLLA0_D16676g,K_lactis,paralog,['gene:KLLA0_C10208g'],"{'S_cerevisiae': 'gene-YDR155C', 'C_glabrata': 'CAGL0E01177g', 'C_albicans': 'orf19.6472'}",small_scale_duplication,unclassified
+Cluster3802,gene:KLLA0_C10208g,K_lactis,paralog,['gene:KLLA0_D16676g'],"{'S_cerevisiae': 'gene-YDR155C', 'C_glabrata': 'CAGL0E01177g', 'C_albicans': 'orf19.6472'}",small_scale_duplication,unclassified
+Cluster3860,orf19.3910,C_albicans,paralog,['orf19.3926'],"{'S_cerevisiae': 'gene-YPL123C', 'C_glabrata': 'CAGL0J06820g', 'K_lactis': 'gene:KLLA0_D06567g'}",small_scale_duplication,unclassified
+Cluster3860,orf19.3926,C_albicans,paralog,['orf19.3910'],"{'S_cerevisiae': 'gene-YPL123C', 'C_glabrata': 'CAGL0J06820g', 'K_lactis': 'gene:KLLA0_D06567g'}",small_scale_duplication,unclassified
+Cluster3871,orf19.1149,C_albicans,paralog,['orf19.5450'],"{'S_cerevisiae': 'gene-YBR026C', 'C_glabrata': 'CAGL0B04323g', 'K_lactis': 'gene:KLLA0_F24552g'}",small_scale_duplication,unclassified
+Cluster3871,orf19.5450,C_albicans,paralog,['orf19.1149'],"{'S_cerevisiae': 'gene-YBR026C', 'C_glabrata': 'CAGL0B04323g', 'K_lactis': 'gene:KLLA0_F24552g'}",small_scale_duplication,unclassified
+Cluster3953,gene:KLLA0_A04631g,K_lactis,paralog,['gene:KLLA0_F17776g'],"{'S_cerevisiae': 'gene-YDR119W', 'C_albicans': 'orf19.1308'}",small_scale_duplication,unclassified
+Cluster3953,gene:KLLA0_F17776g,K_lactis,paralog,['gene:KLLA0_A04631g'],"{'S_cerevisiae': 'gene-YDR119W', 'C_albicans': 'orf19.1308'}",small_scale_duplication,unclassified
+Cluster410,gene:KLLA0_B04158g,K_lactis,paralog,['gene:KLLA0_C06655g'],"{'S_cerevisiae': 'gene-YJR133W', 'C_glabrata': 'CAGL0M00484g', 'C_albicans': 'orf19.5832'}",small_scale_duplication,unclassified
+Cluster410,gene:KLLA0_C06655g,K_lactis,paralog,['gene:KLLA0_B04158g'],"{'S_cerevisiae': 'gene-YJR133W', 'C_glabrata': 'CAGL0M00484g', 'C_albicans': 'orf19.5832'}",small_scale_duplication,unclassified
+Cluster4105,gene:KLLA0_C05060g,K_lactis,paralog,['gene:KLLA0_A04389g'],"{'S_cerevisiae': 'gene-YOL019W', 'C_glabrata': 'CAGL0G08954g', 'C_albicans': 'orf19.101'}",small_scale_duplication,unclassified
+Cluster4105,gene:KLLA0_A04389g,K_lactis,paralog,['gene:KLLA0_C05060g'],"{'S_cerevisiae': 'gene-YOL019W', 'C_glabrata': 'CAGL0G08954g', 'C_albicans': 'orf19.101'}",small_scale_duplication,unclassified
+Cluster4224,gene-YLR035C-A,S_cerevisiae,paralog,['gene-YAR009C'],{'C_albicans': 'orf19.2372'},small_scale_duplication,unclassified
+Cluster4224,gene-YAR009C,S_cerevisiae,paralog,['gene-YLR035C-A'],{'C_albicans': 'orf19.2372'},small_scale_duplication,unclassified
+Cluster4224,orf19.2372,C_albicans,paralog,['orf19.2669'],{'S_cerevisiae': 'gene-YLR035C-A'},small_scale_duplication,unclassified
+Cluster4224,orf19.2669,C_albicans,paralog,['orf19.2372'],{'S_cerevisiae': 'gene-YLR035C-A'},small_scale_duplication,unclassified
+Cluster4225,gene:KLLA0_B14553g,K_lactis,paralog,['gene:KLLA0_C03135g'],"{'S_cerevisiae': 'gene-YCR097W', 'C_albicans': 'orf19.3201'}",small_scale_duplication,unclassified
+Cluster4225,gene:KLLA0_C03135g,K_lactis,paralog,['gene:KLLA0_B14553g'],"{'S_cerevisiae': 'gene-YCR097W', 'C_albicans': 'orf19.3201'}",small_scale_duplication,unclassified
+Cluster424,gene:KLLA0_E09857g,K_lactis,paralog,['gene:KLLA0_D19933g'],"{'S_cerevisiae': 'gene-YMR226C', 'C_glabrata': 'CAGL0M11242g', 'C_albicans': 'orf19.4633'}",small_scale_duplication,unclassified
+Cluster424,gene:KLLA0_D19933g,K_lactis,paralog,['gene:KLLA0_E09857g'],"{'S_cerevisiae': 'gene-YMR226C', 'C_glabrata': 'CAGL0M11242g', 'C_albicans': 'orf19.4633'}",small_scale_duplication,unclassified
+Cluster427,gene-YNCO0001C,S_cerevisiae,paralog,"['gene-YNCN0002C', 'gene-YNCG0035W']",{'C_glabrata': 'CAGL0J06446r'},small_scale_duplication,unclassified
+Cluster427,gene-YNCN0002C,S_cerevisiae,paralog,"['gene-YNCO0001C', 'gene-YNCG0035W']",{'C_glabrata': 'CAGL0J06446r'},small_scale_duplication,unclassified
+Cluster427,gene-YNCG0035W,S_cerevisiae,paralog,"['gene-YNCO0001C', 'gene-YNCN0002C']",{'C_glabrata': 'CAGL0J06446r'},small_scale_duplication,unclassified
+Cluster427,CAGL0J06446r,C_glabrata,paralog,['CAGL0E02277r'],{'S_cerevisiae': 'gene-YNCO0001C'},small_scale_duplication,unclassified
+Cluster427,CAGL0E02277r,C_glabrata,paralog,['CAGL0J06446r'],{'S_cerevisiae': 'gene-YNCO0001C'},small_scale_duplication,unclassified
+Cluster4334,gene:KLLA0_B00308g,K_lactis,paralog,['gene:KLLA0_E14543g'],{'C_glabrata': 'CAGL0I00220g'},small_scale_duplication,unclassified
+Cluster4334,gene:KLLA0_E14543g,K_lactis,paralog,['gene:KLLA0_B00308g'],{'C_glabrata': 'CAGL0I00220g'},small_scale_duplication,unclassified
+Cluster4368,gene:KLLA0_A04499g,K_lactis,paralog,['gene:KLLA0_C05126g'],"{'S_cerevisiae': 'gene-YLR293C', 'C_glabrata': 'CAGL0I00594g', 'C_albicans': 'orf19.5493'}",small_scale_duplication,unclassified
+Cluster4368,gene:KLLA0_C05126g,K_lactis,paralog,['gene:KLLA0_A04499g'],"{'S_cerevisiae': 'gene-YLR293C', 'C_glabrata': 'CAGL0I00594g', 'C_albicans': 'orf19.5493'}",small_scale_duplication,unclassified
+Cluster4426,orf19.6838,C_albicans,paralog,['orf19.2899'],{'K_lactis': 'gene:KLLA0_D15521g'},small_scale_duplication,unclassified
+Cluster4426,orf19.2899,C_albicans,paralog,['orf19.6838'],{'K_lactis': 'gene:KLLA0_D15521g'},small_scale_duplication,unclassified
+Cluster4479,orf19.510,C_albicans,paralog,['orf19.5204'],"{'S_cerevisiae': 'gene-YNL042W', 'C_glabrata': 'CAGL0G01474g', 'K_lactis': 'gene:KLLA0_F03927g'}",small_scale_duplication,unclassified
+Cluster4479,orf19.5204,C_albicans,paralog,['orf19.510'],"{'S_cerevisiae': 'gene-YNL042W', 'C_glabrata': 'CAGL0G01474g', 'K_lactis': 'gene:KLLA0_F03927g'}",small_scale_duplication,unclassified
+Cluster4502,gene-YEL049W,S_cerevisiae,paralog,['gene-YBL108C-A'],{'C_glabrata': 'CAGL0G10175g'},small_scale_duplication,unclassified
+Cluster4502,gene-YBL108C-A,S_cerevisiae,paralog,['gene-YEL049W'],{'C_glabrata': 'CAGL0G10175g'},small_scale_duplication,unclassified
+Cluster461,orf19.7097,C_albicans,paralog,['orf19.1389'],"{'S_cerevisiae': 'gene-YIR001C', 'C_glabrata': 'CAGL0J02200g', 'K_lactis': 'gene:KLLA0_D13772g'}",small_scale_duplication,unclassified
+Cluster461,orf19.1389,C_albicans,paralog,['orf19.7097'],"{'S_cerevisiae': 'gene-YIR001C', 'C_glabrata': 'CAGL0J02200g', 'K_lactis': 'gene:KLLA0_D13772g'}",small_scale_duplication,unclassified
+Cluster4630,gene:KLLA0_B08976g,K_lactis,paralog,['gene:KLLA0_B11594g'],"{'S_cerevisiae': 'gene-YBR119W', 'C_glabrata': 'CAGL0D01166g', 'C_albicans': 'orf19.7375'}",small_scale_duplication,unclassified
+Cluster4630,gene:KLLA0_B11594g,K_lactis,paralog,['gene:KLLA0_B08976g'],"{'S_cerevisiae': 'gene-YBR119W', 'C_glabrata': 'CAGL0D01166g', 'C_albicans': 'orf19.7375'}",small_scale_duplication,unclassified
+Cluster4784,CAGL0I10857r,C_glabrata,paralog,['CAGL0I03278r'],{'S_cerevisiae': 'gene-YNCO0023W'},small_scale_duplication,unclassified
+Cluster4784,CAGL0I03278r,C_glabrata,paralog,['CAGL0I10857r'],{'S_cerevisiae': 'gene-YNCO0023W'},small_scale_duplication,unclassified
+Cluster4784,gene-YNCO0023W,S_cerevisiae,paralog,['gene-YNCJ0022C'],{'C_glabrata': 'CAGL0I10857r'},small_scale_duplication,unclassified
+Cluster4784,gene-YNCJ0022C,S_cerevisiae,paralog,['gene-YNCO0023W'],{'C_glabrata': 'CAGL0I10857r'},small_scale_duplication,unclassified
+Cluster4789,CAGL0I01540r,C_glabrata,paralog,['CAGL0M03509r'],{'S_cerevisiae': 'gene-YNCC0008W'},small_scale_duplication,unclassified
+Cluster4789,CAGL0M03509r,C_glabrata,paralog,['CAGL0I01540r'],{'S_cerevisiae': 'gene-YNCC0008W'},small_scale_duplication,unclassified
+Cluster4871,gene:KLLA0_A02651g,K_lactis,paralog,['gene:KLLA0_E20285g'],"{'S_cerevisiae': 'gene-YBL064C', 'C_glabrata': 'CAGL0A04433g', 'C_albicans': 'orf19.5180'}",small_scale_duplication,unclassified
+Cluster4871,gene:KLLA0_E20285g,K_lactis,paralog,['gene:KLLA0_A02651g'],"{'S_cerevisiae': 'gene-YBL064C', 'C_glabrata': 'CAGL0A04433g', 'C_albicans': 'orf19.5180'}",small_scale_duplication,unclassified
+Cluster4895,orf19.3354,C_albicans,paralog,['orf19.5341'],"{'S_cerevisiae': 'gene-YJR145C', 'K_lactis': 'gene:KLLA0_B03652g'}",small_scale_duplication,unclassified
+Cluster4895,orf19.5341,C_albicans,paralog,['orf19.3354'],"{'S_cerevisiae': 'gene-YJR145C', 'K_lactis': 'gene:KLLA0_B03652g'}",small_scale_duplication,unclassified
+Cluster4900,tT(UGU)2,unknown,paralog,['tT(UGU)1'],"{'S_cerevisiae': 'gene-YNCG0046W', 'C_glabrata': 'CAGL0G02981r', 'K_lactis': 'gene:KLLA0_D14762g'}",small_scale_duplication,unclassified
+Cluster4900,tT(UGU)1,unknown,paralog,['tT(UGU)2'],"{'S_cerevisiae': 'gene-YNCG0046W', 'C_glabrata': 'CAGL0G02981r', 'K_lactis': 'gene:KLLA0_D14762g'}",small_scale_duplication,unclassified
+Cluster4907,orf19.7269,C_albicans,paralog,['orf19.1465'],"{'S_cerevisiae': 'gene-YDR071C', 'C_glabrata': 'CAGL0G05291g', 'K_lactis': 'gene:KLLA0_E10231g'}",small_scale_duplication,unclassified
+Cluster4907,orf19.1465,C_albicans,paralog,['orf19.7269'],"{'S_cerevisiae': 'gene-YDR071C', 'C_glabrata': 'CAGL0G05291g', 'K_lactis': 'gene:KLLA0_E10231g'}",small_scale_duplication,unclassified
+Cluster4973,orf19.4631,C_albicans,paralog,['orf19.3732'],"{'S_cerevisiae': 'gene-YGR060W', 'C_glabrata': 'CAGL0K04477g', 'K_lactis': 'gene:KLLA0_B08085g'}",small_scale_duplication,unclassified
+Cluster4973,orf19.3732,C_albicans,paralog,['orf19.4631'],"{'S_cerevisiae': 'gene-YGR060W', 'C_glabrata': 'CAGL0K04477g', 'K_lactis': 'gene:KLLA0_B08085g'}",small_scale_duplication,unclassified
+Cluster5004,gene:KLLA0_A11935g,K_lactis,paralog,['gene:KLLA0_B14916g'],{'C_glabrata': 'CAGL0I07293g'},small_scale_duplication,unclassified
+Cluster5004,gene:KLLA0_B14916g,K_lactis,paralog,['gene:KLLA0_A11935g'],{'C_glabrata': 'CAGL0I07293g'},small_scale_duplication,unclassified
+Cluster524,gene-YNCD0018W,S_cerevisiae,paralog,['gene-YNCM0037W'],{'C_glabrata': 'CAGL0H01903r'},small_scale_duplication,unclassified
+Cluster524,gene-YNCM0037W,S_cerevisiae,paralog,['gene-YNCD0018W'],{'C_glabrata': 'CAGL0H01903r'},small_scale_duplication,unclassified
+Cluster5315,orf19.7570,C_albicans,paralog,['orf19.6038'],"{'S_cerevisiae': 'gene-YDL170W', 'K_lactis': 'gene:KLLA0_E19603g'}",small_scale_duplication,unclassified
+Cluster5315,orf19.6038,C_albicans,paralog,['orf19.7570'],"{'S_cerevisiae': 'gene-YDL170W', 'K_lactis': 'gene:KLLA0_E19603g'}",small_scale_duplication,unclassified
+Cluster5319,gene:KLLA0_D19921g,K_lactis,paralog,['gene:KLLA0_C00264g'],{'C_albicans': 'orf19.3111'},small_scale_duplication,unclassified
+Cluster5319,gene:KLLA0_C00264g,K_lactis,paralog,['gene:KLLA0_D19921g'],{'C_albicans': 'orf19.3111'},small_scale_duplication,unclassified
+Cluster5321,orf19.5245,C_albicans,paralog,['orf19.5094'],"{'S_cerevisiae': 'gene-YML111W', 'C_glabrata': 'CAGL0F03465g'}",small_scale_duplication,unclassified
+Cluster5321,orf19.5094,C_albicans,paralog,['orf19.5245'],"{'S_cerevisiae': 'gene-YML111W', 'C_glabrata': 'CAGL0F03465g'}",small_scale_duplication,unclassified
+Cluster536,gene-YNCJ0010W,S_cerevisiae,paralog,['gene-YNCF0012C'],{'C_glabrata': 'CAGL0L01595r'},small_scale_duplication,unclassified
+Cluster536,gene-YNCF0012C,S_cerevisiae,paralog,['gene-YNCJ0010W'],{'C_glabrata': 'CAGL0L01595r'},small_scale_duplication,unclassified
+Cluster536,CAGL0L01595r,C_glabrata,paralog,['CAGL0K11154r'],{'S_cerevisiae': 'gene-YNCJ0010W'},small_scale_duplication,unclassified
+Cluster536,CAGL0K11154r,C_glabrata,paralog,['CAGL0L01595r'],{'S_cerevisiae': 'gene-YNCJ0010W'},small_scale_duplication,unclassified
+Cluster5402,orf19.5975,C_albicans,paralog,['orf19.2752'],"{'S_cerevisiae': 'gene-YDR216W', 'C_glabrata': 'CAGL0E04884g', 'K_lactis': 'gene:KLLA0_F13046g'}",small_scale_duplication,unclassified
+Cluster5402,orf19.2752,C_albicans,paralog,['orf19.5975'],"{'S_cerevisiae': 'gene-YDR216W', 'C_glabrata': 'CAGL0E04884g', 'K_lactis': 'gene:KLLA0_F13046g'}",small_scale_duplication,unclassified
+Cluster5446,gene-YNCL0040W,S_cerevisiae,paralog,['gene-YNCO0019W'],{'C_glabrata': 'CAGL0H01969r'},small_scale_duplication,unclassified
+Cluster5446,gene-YNCO0019W,S_cerevisiae,paralog,['gene-YNCL0040W'],{'C_glabrata': 'CAGL0H01969r'},small_scale_duplication,unclassified
+Cluster5446,CAGL0H01969r,C_glabrata,paralog,['CAGL0I07337r'],{'S_cerevisiae': 'gene-YNCL0040W'},small_scale_duplication,unclassified
+Cluster5446,CAGL0I07337r,C_glabrata,paralog,['CAGL0H01969r'],{'S_cerevisiae': 'gene-YNCL0040W'},small_scale_duplication,unclassified
+Cluster5587,orf19.6594,C_albicans,paralog,['orf19.689'],"{'S_cerevisiae': 'gene-YMR006C', 'C_glabrata': 'CAGL0J11748g'}",small_scale_duplication,unclassified
+Cluster5587,orf19.689,C_albicans,paralog,['orf19.6594'],"{'S_cerevisiae': 'gene-YMR006C', 'C_glabrata': 'CAGL0J11748g'}",small_scale_duplication,unclassified
+Cluster5643,orf19.2812,C_albicans,paralog,['orf19.308'],"{'S_cerevisiae': 'gene-YGR197C', 'C_glabrata': 'CAGL0B03949g', 'K_lactis': 'gene:KLLA0_E02135g'}",small_scale_duplication,unclassified
+Cluster5643,orf19.308,C_albicans,paralog,['orf19.2812'],"{'S_cerevisiae': 'gene-YGR197C', 'C_glabrata': 'CAGL0B03949g', 'K_lactis': 'gene:KLLA0_E02135g'}",small_scale_duplication,unclassified
+Cluster5685,orf19.1274,C_albicans,paralog,['orf19.1255'],{'K_lactis': 'gene:KLLA0_C17050g'},small_scale_duplication,unclassified
+Cluster5685,orf19.1255,C_albicans,paralog,['orf19.1274'],{'K_lactis': 'gene:KLLA0_C17050g'},small_scale_duplication,unclassified
+Cluster5705,orf19.6574,C_albicans,paralog,['orf19.5728'],{'K_lactis': 'gene:KLLA0_C19206g'},small_scale_duplication,unclassified
+Cluster5705,orf19.5728,C_albicans,paralog,['orf19.6574'],{'K_lactis': 'gene:KLLA0_C19206g'},small_scale_duplication,unclassified
+Cluster5772,gene-YNCL0021C,S_cerevisiae,paralog,['gene-YNCL0012C'],{'C_glabrata': 'CAGL0M14124r'},small_scale_duplication,unclassified
+Cluster5772,gene-YNCL0012C,S_cerevisiae,paralog,['gene-YNCL0021C'],{'C_glabrata': 'CAGL0M14124r'},small_scale_duplication,unclassified
+Cluster5772,CAGL0M14124r,C_glabrata,paralog,['CAGL0L13365r'],{'S_cerevisiae': 'gene-YNCL0021C'},small_scale_duplication,unclassified
+Cluster5772,CAGL0L13365r,C_glabrata,paralog,['CAGL0M14124r'],{'S_cerevisiae': 'gene-YNCL0021C'},small_scale_duplication,unclassified
+Cluster5887,gene:KLLA0_C12177g,K_lactis,paralog,['gene:KLLA0_E00771g'],"{'S_cerevisiae': 'gene-YNL283C', 'C_glabrata': 'CAGL0D02794g', 'C_albicans': 'orf19.7251'}",small_scale_duplication,unclassified
+Cluster5887,gene:KLLA0_E00771g,K_lactis,paralog,['gene:KLLA0_C12177g'],"{'S_cerevisiae': 'gene-YNL283C', 'C_glabrata': 'CAGL0D02794g', 'C_albicans': 'orf19.7251'}",small_scale_duplication,unclassified
+Cluster5920,gene:KLLA0_C05214g,K_lactis,paralog,['gene:KLLA0_A04587g'],"{'S_cerevisiae': 'gene-YOR187W', 'C_glabrata': 'CAGL0G09581g', 'C_albicans': 'orf19.6047'}",small_scale_duplication,unclassified
+Cluster5920,gene:KLLA0_A04587g,K_lactis,paralog,['gene:KLLA0_C05214g'],"{'S_cerevisiae': 'gene-YOR187W', 'C_glabrata': 'CAGL0G09581g', 'C_albicans': 'orf19.6047'}",small_scale_duplication,unclassified
+Cluster6006,orf19.6066,C_albicans,paralog,['orf19.6518'],"{'S_cerevisiae': 'gene-YMR110C', 'C_glabrata': 'CAGL0K03509g', 'K_lactis': 'gene:KLLA0_B12540g'}",small_scale_duplication,unclassified
+Cluster6006,orf19.6518,C_albicans,paralog,['orf19.6066'],"{'S_cerevisiae': 'gene-YMR110C', 'C_glabrata': 'CAGL0K03509g', 'K_lactis': 'gene:KLLA0_B12540g'}",small_scale_duplication,unclassified
+Cluster6118,gene:KLLA0_C18975g,K_lactis,paralog,['gene:KLLA0_C18700g'],"{'S_cerevisiae': 'gene-YKL215C', 'C_glabrata': 'CAGL0K00231g', 'C_albicans': 'orf19.5804'}",small_scale_duplication,unclassified
+Cluster6118,gene:KLLA0_C18700g,K_lactis,paralog,['gene:KLLA0_C18975g'],"{'S_cerevisiae': 'gene-YKL215C', 'C_glabrata': 'CAGL0K00231g', 'C_albicans': 'orf19.5804'}",small_scale_duplication,unclassified
+Cluster6139,CAGL0M12430g,C_glabrata,paralog,"['CAGL0D04092g', 'CAGL0M12925g']","{'S_cerevisiae': 'gene-YHR043C', 'C_albicans': 'orf19.3392', 'K_lactis': 'gene:KLLA0_C11143g'}",small_scale_duplication,unclassified
+Cluster6139,CAGL0D04092g,C_glabrata,paralog,"['CAGL0M12430g', 'CAGL0M12925g']","{'S_cerevisiae': 'gene-YHR043C', 'C_albicans': 'orf19.3392', 'K_lactis': 'gene:KLLA0_C11143g'}",small_scale_duplication,unclassified
+Cluster6139,CAGL0M12925g,C_glabrata,paralog,"['CAGL0M12430g', 'CAGL0D04092g']","{'S_cerevisiae': 'gene-YHR043C', 'C_albicans': 'orf19.3392', 'K_lactis': 'gene:KLLA0_C11143g'}",small_scale_duplication,unclassified
+Cluster6182,gene-YNR066C,S_cerevisiae,paralog,['gene-YCR100C'],{'C_glabrata': 'CAGL0A01870g'},small_scale_duplication,unclassified
+Cluster6182,gene-YCR100C,S_cerevisiae,paralog,['gene-YNR066C'],{'C_glabrata': 'CAGL0A01870g'},small_scale_duplication,unclassified
+Cluster621,gene:KLLA0_D07370g,K_lactis,paralog,['gene:KLLA0_F09405g'],"{'S_cerevisiae': 'gene-YIL166C', 'C_glabrata': 'CAGL0F00209g', 'C_albicans': 'orf19.3232'}",small_scale_duplication,unclassified
+Cluster621,gene:KLLA0_F09405g,K_lactis,paralog,['gene:KLLA0_D07370g'],"{'S_cerevisiae': 'gene-YIL166C', 'C_glabrata': 'CAGL0F00209g', 'C_albicans': 'orf19.3232'}",small_scale_duplication,unclassified
+Cluster6220,CAGL0F06259g,C_glabrata,paralog,"['CAGL0I10769g', 'CAGL0F06237g']","{'S_cerevisiae': 'gene-YMR042W', 'C_albicans': 'orf19.7025', 'K_lactis': 'gene:KLLA0_F26807g'}",small_scale_duplication,unclassified
+Cluster6220,CAGL0I10769g,C_glabrata,paralog,"['CAGL0F06259g', 'CAGL0F06237g']","{'S_cerevisiae': 'gene-YMR042W', 'C_albicans': 'orf19.7025', 'K_lactis': 'gene:KLLA0_F26807g'}",small_scale_duplication,unclassified
+Cluster6220,CAGL0F06237g,C_glabrata,paralog,"['CAGL0F06259g', 'CAGL0I10769g']","{'S_cerevisiae': 'gene-YMR042W', 'C_albicans': 'orf19.7025', 'K_lactis': 'gene:KLLA0_F26807g'}",small_scale_duplication,unclassified
+Cluster6295,orf19.7397.1,C_albicans,paralog,['orf19.7424'],"{'S_cerevisiae': 'gene-YER126C', 'C_glabrata': 'CAGL0K02233g', 'K_lactis': 'gene:KLLA0_E13619g'}",small_scale_duplication,unclassified
+Cluster6295,orf19.7424,C_albicans,paralog,['orf19.7397.1'],"{'S_cerevisiae': 'gene-YER126C', 'C_glabrata': 'CAGL0K02233g', 'K_lactis': 'gene:KLLA0_E13619g'}",small_scale_duplication,unclassified
+Cluster6455,CAGL0K08778r,C_glabrata,paralog,['CAGL0I07403r'],{'S_cerevisiae': 'gene-YNCH0003C'},small_scale_duplication,unclassified
+Cluster6455,CAGL0I07403r,C_glabrata,paralog,['CAGL0K08778r'],{'S_cerevisiae': 'gene-YNCH0003C'},small_scale_duplication,unclassified
+Cluster647,orf19.4379,C_albicans,paralog,['orf19.4380.1'],"{'S_cerevisiae': 'gene-YMR302C', 'C_glabrata': 'CAGL0M13761g', 'K_lactis': 'gene:KLLA0_C13948g'}",small_scale_duplication,unclassified
+Cluster647,orf19.4380.1,C_albicans,paralog,['orf19.4379'],"{'S_cerevisiae': 'gene-YMR302C', 'C_glabrata': 'CAGL0M13761g', 'K_lactis': 'gene:KLLA0_C13948g'}",small_scale_duplication,unclassified
+Cluster6640,orf19.2797,C_albicans,paralog,['orf19.2798'],"{'S_cerevisiae': 'gene-YDR332W', 'C_glabrata': 'CAGL0M01276g', 'K_lactis': 'gene:KLLA0_E17095g'}",small_scale_duplication,unclassified
+Cluster6640,orf19.2798,C_albicans,paralog,['orf19.2797'],"{'S_cerevisiae': 'gene-YDR332W', 'C_glabrata': 'CAGL0M01276g', 'K_lactis': 'gene:KLLA0_E17095g'}",small_scale_duplication,unclassified
+Cluster6658,orf19.2439,C_albicans,paralog,['orf19.819'],"{'S_cerevisiae': 'gene-YKL192C', 'C_glabrata': 'CAGL0D03586g', 'K_lactis': 'gene:KLLA0_D02838g'}",small_scale_duplication,unclassified
+Cluster6658,orf19.819,C_albicans,paralog,['orf19.2439'],"{'S_cerevisiae': 'gene-YKL192C', 'C_glabrata': 'CAGL0D03586g', 'K_lactis': 'gene:KLLA0_D02838g'}",small_scale_duplication,unclassified
+Cluster6902,gene-YNCA0006C,S_cerevisiae,paralog,['gene-YNCJ0023C'],{'C_glabrata': 'CAGL0C04521r'},small_scale_duplication,unclassified
+Cluster6902,gene-YNCJ0023C,S_cerevisiae,paralog,['gene-YNCA0006C'],{'C_glabrata': 'CAGL0C04521r'},small_scale_duplication,unclassified
+Cluster6985,gene:KLLA0_E02905g,K_lactis,paralog,['gene:KLLA0_E02927g'],"{'S_cerevisiae': 'gene-YDR384C', 'C_glabrata': 'CAGL0A03212g', 'C_albicans': 'orf19.3261'}",small_scale_duplication,unclassified
+Cluster6985,gene:KLLA0_E02927g,K_lactis,paralog,['gene:KLLA0_E02905g'],"{'S_cerevisiae': 'gene-YDR384C', 'C_glabrata': 'CAGL0A03212g', 'C_albicans': 'orf19.3261'}",small_scale_duplication,unclassified
+Cluster7051,gene:KLLA0_F24200g,K_lactis,paralog,['gene:KLLA0_F11077g'],"{'S_cerevisiae': 'gene-YNL125C', 'C_glabrata': 'CAGL0I09086g', 'C_albicans': 'orf19.4337'}",small_scale_duplication,unclassified
+Cluster7051,gene:KLLA0_F11077g,K_lactis,paralog,['gene:KLLA0_F24200g'],"{'S_cerevisiae': 'gene-YNL125C', 'C_glabrata': 'CAGL0I09086g', 'C_albicans': 'orf19.4337'}",small_scale_duplication,unclassified
+Cluster7080,CAGL0D06116r,C_glabrata,paralog,['CAGL0M04785r'],{'S_cerevisiae': 'gene-YNCO0029C'},small_scale_duplication,unclassified
+Cluster7080,CAGL0M04785r,C_glabrata,paralog,['CAGL0D06116r'],{'S_cerevisiae': 'gene-YNCO0029C'},small_scale_duplication,unclassified
+Cluster7101,gene:KLLA0_E01299g,K_lactis,paralog,['gene:KLLA0_A06468g'],"{'S_cerevisiae': 'gene-YDL049C', 'C_glabrata': 'CAGL0H07997g', 'C_albicans': 'orf19.5861'}",small_scale_duplication,unclassified
+Cluster7101,gene:KLLA0_A06468g,K_lactis,paralog,['gene:KLLA0_E01299g'],"{'S_cerevisiae': 'gene-YDL049C', 'C_glabrata': 'CAGL0H07997g', 'C_albicans': 'orf19.5861'}",small_scale_duplication,unclassified
+Cluster7206,gene-YAR050W,S_cerevisiae,paralog,['gene-YAL063C'],{'C_glabrata': 'CAGL0J11968g'},small_scale_duplication,unclassified
+Cluster7206,gene-YAL063C,S_cerevisiae,paralog,['gene-YAR050W'],{'C_glabrata': 'CAGL0J11968g'},small_scale_duplication,unclassified
+Cluster7206,CAGL0J11968g,C_glabrata,paralog,['CAGL0C05643g'],{'S_cerevisiae': 'gene-YAR050W'},small_scale_duplication,unclassified
+Cluster7206,CAGL0C05643g,C_glabrata,paralog,['CAGL0J11968g'],{'S_cerevisiae': 'gene-YAR050W'},small_scale_duplication,unclassified
+Cluster728,CAGL0L09911g,C_glabrata,paralog,['CAGL0J01800g'],{'S_cerevisiae': 'gene-YOL155C'},small_scale_duplication,unclassified
+Cluster728,CAGL0J01800g,C_glabrata,paralog,['CAGL0L09911g'],{'S_cerevisiae': 'gene-YOL155C'},small_scale_duplication,unclassified
+Cluster7337,orf19.2202,C_albicans,paralog,['orf19.1889'],"{'S_cerevisiae': 'gene-YKR043C', 'C_glabrata': 'CAGL0L03311g', 'K_lactis': 'gene:KLLA0_E14961g'}",small_scale_duplication,unclassified
+Cluster7337,orf19.1889,C_albicans,paralog,['orf19.2202'],"{'S_cerevisiae': 'gene-YKR043C', 'C_glabrata': 'CAGL0L03311g', 'K_lactis': 'gene:KLLA0_E14961g'}",small_scale_duplication,unclassified
+Cluster7378,gene:KLLA0_B11363g,K_lactis,paralog,['gene:KLLA0_E07107g'],"{'S_cerevisiae': 'gene-YOL136C', 'C_glabrata': 'CAGL0E01529g', 'C_albicans': 'orf19.2308'}",small_scale_duplication,unclassified
+Cluster7378,gene:KLLA0_E07107g,K_lactis,paralog,['gene:KLLA0_B11363g'],"{'S_cerevisiae': 'gene-YOL136C', 'C_glabrata': 'CAGL0E01529g', 'C_albicans': 'orf19.2308'}",small_scale_duplication,unclassified
+Cluster7393,gene:KLLA0_C17963g,K_lactis,paralog,['gene:KLLA0_E24421g'],"{'S_cerevisiae': 'gene-YGR015C', 'C_glabrata': 'CAGL0F08855g', 'C_albicans': 'orf19.5824'}",small_scale_duplication,unclassified
+Cluster7393,gene:KLLA0_E24421g,K_lactis,paralog,['gene:KLLA0_C17963g'],"{'S_cerevisiae': 'gene-YGR015C', 'C_glabrata': 'CAGL0F08855g', 'C_albicans': 'orf19.5824'}",small_scale_duplication,unclassified
+Cluster7421,gene-YLR460C,S_cerevisiae,paralog,"['gene-YCR102C', 'gene-YNL134C']","{'C_glabrata': 'CAGL0K09702g', 'C_albicans': 'orf19.2394', 'K_lactis': 'gene:KLLA0_F24464g'}",small_scale_duplication,unclassified
+Cluster7421,gene-YCR102C,S_cerevisiae,paralog,"['gene-YLR460C', 'gene-YNL134C']","{'C_glabrata': 'CAGL0K09702g', 'C_albicans': 'orf19.2394', 'K_lactis': 'gene:KLLA0_F24464g'}",small_scale_duplication,unclassified
+Cluster7421,gene-YNL134C,S_cerevisiae,paralog,"['gene-YLR460C', 'gene-YCR102C']","{'C_glabrata': 'CAGL0K09702g', 'C_albicans': 'orf19.2394', 'K_lactis': 'gene:KLLA0_F24464g'}",small_scale_duplication,unclassified
+Cluster743,orf19.5157,C_albicans,paralog,['orf19.5156'],"{'S_cerevisiae': 'gene-YJL097W', 'C_glabrata': 'CAGL0L03564g', 'K_lactis': 'gene:KLLA0_F14146g'}",small_scale_duplication,unclassified
+Cluster743,orf19.5156,C_albicans,paralog,['orf19.5157'],"{'S_cerevisiae': 'gene-YJL097W', 'C_glabrata': 'CAGL0L03564g', 'K_lactis': 'gene:KLLA0_F14146g'}",small_scale_duplication,unclassified
+Cluster7510,gene-YGL002W,S_cerevisiae,paralog,"['gene-YAR002C-A', 'gene-YHR110W']","{'C_glabrata': 'CAGL0A00627g', 'C_albicans': 'orf19.2322.3', 'K_lactis': 'gene:KLLA0_A08778g'}",small_scale_duplication,unclassified
+Cluster7510,gene-YAR002C-A,S_cerevisiae,paralog,"['gene-YGL002W', 'gene-YHR110W']","{'C_glabrata': 'CAGL0A00627g', 'C_albicans': 'orf19.2322.3', 'K_lactis': 'gene:KLLA0_A08778g'}",small_scale_duplication,unclassified
+Cluster7510,gene-YHR110W,S_cerevisiae,paralog,"['gene-YGL002W', 'gene-YAR002C-A']","{'C_glabrata': 'CAGL0A00627g', 'C_albicans': 'orf19.2322.3', 'K_lactis': 'gene:KLLA0_A08778g'}",small_scale_duplication,unclassified
+Cluster7510,CAGL0A00627g,C_glabrata,paralog,"['CAGL0G00682g', 'CAGL0I01232g']","{'S_cerevisiae': 'gene-YGL002W', 'C_albicans': 'orf19.2322.3', 'K_lactis': 'gene:KLLA0_A08778g'}",small_scale_duplication,unclassified
+Cluster7510,CAGL0G00682g,C_glabrata,paralog,"['CAGL0A00627g', 'CAGL0I01232g']","{'S_cerevisiae': 'gene-YGL002W', 'C_albicans': 'orf19.2322.3', 'K_lactis': 'gene:KLLA0_A08778g'}",small_scale_duplication,unclassified
+Cluster7510,CAGL0I01232g,C_glabrata,paralog,"['CAGL0A00627g', 'CAGL0G00682g']","{'S_cerevisiae': 'gene-YGL002W', 'C_albicans': 'orf19.2322.3', 'K_lactis': 'gene:KLLA0_A08778g'}",small_scale_duplication,unclassified
+Cluster7510,gene:KLLA0_A08778g,K_lactis,paralog,['gene:KLLA0_E21385g'],"{'S_cerevisiae': 'gene-YGL002W', 'C_glabrata': 'CAGL0A00627g', 'C_albicans': 'orf19.2322.3'}",small_scale_duplication,unclassified
+Cluster7510,gene:KLLA0_E21385g,K_lactis,paralog,['gene:KLLA0_A08778g'],"{'S_cerevisiae': 'gene-YGL002W', 'C_glabrata': 'CAGL0A00627g', 'C_albicans': 'orf19.2322.3'}",small_scale_duplication,unclassified
+Cluster7547,CAGL0K10890g,C_glabrata,paralog,"['CAGL0I02574g', 'CAGL0L09537g']","{'S_cerevisiae': 'gene-YHR179W', 'C_albicans': 'orf19.3443', 'K_lactis': 'gene:KLLA0_A09075g'}",small_scale_duplication,unclassified
+Cluster7547,CAGL0I02574g,C_glabrata,paralog,"['CAGL0K10890g', 'CAGL0L09537g']","{'S_cerevisiae': 'gene-YHR179W', 'C_albicans': 'orf19.3443', 'K_lactis': 'gene:KLLA0_A09075g'}",small_scale_duplication,unclassified
+Cluster7547,CAGL0L09537g,C_glabrata,paralog,"['CAGL0K10890g', 'CAGL0I02574g']","{'S_cerevisiae': 'gene-YHR179W', 'C_albicans': 'orf19.3443', 'K_lactis': 'gene:KLLA0_A09075g'}",small_scale_duplication,unclassified
+Cluster7547,orf19.3443,C_albicans,paralog,"['orf19.125', 'orf19.3433']","{'S_cerevisiae': 'gene-YHR179W', 'C_glabrata': 'CAGL0K10890g', 'K_lactis': 'gene:KLLA0_A09075g'}",small_scale_duplication,unclassified
+Cluster7547,orf19.125,C_albicans,paralog,"['orf19.3443', 'orf19.3433']","{'S_cerevisiae': 'gene-YHR179W', 'C_glabrata': 'CAGL0K10890g', 'K_lactis': 'gene:KLLA0_A09075g'}",small_scale_duplication,unclassified
+Cluster7547,orf19.3433,C_albicans,paralog,"['orf19.3443', 'orf19.125']","{'S_cerevisiae': 'gene-YHR179W', 'C_glabrata': 'CAGL0K10890g', 'K_lactis': 'gene:KLLA0_A09075g'}",small_scale_duplication,unclassified
+Cluster7637,gene-YNL104C,S_cerevisiae,paralog,['gene-YOR108W'],"{'C_glabrata': 'CAGL0G06732g', 'C_albicans': 'orf19.6086', 'K_lactis': 'gene:KLLA0_F23529g'}",small_scale_duplication,unclassified
+Cluster7637,gene-YOR108W,S_cerevisiae,paralog,['gene-YNL104C'],"{'C_glabrata': 'CAGL0G06732g', 'C_albicans': 'orf19.6086', 'K_lactis': 'gene:KLLA0_F23529g'}",small_scale_duplication,unclassified
+Cluster7637,CAGL0G06732g,C_glabrata,paralog,['CAGL0G04741g'],"{'S_cerevisiae': 'gene-YNL104C', 'C_albicans': 'orf19.6086', 'K_lactis': 'gene:KLLA0_F23529g'}",small_scale_duplication,unclassified
+Cluster7637,CAGL0G04741g,C_glabrata,paralog,['CAGL0G06732g'],"{'S_cerevisiae': 'gene-YNL104C', 'C_albicans': 'orf19.6086', 'K_lactis': 'gene:KLLA0_F23529g'}",small_scale_duplication,unclassified
+Cluster7637,gene:KLLA0_F23529g,K_lactis,paralog,['gene:KLLA0_D14201g'],"{'S_cerevisiae': 'gene-YNL104C', 'C_glabrata': 'CAGL0G06732g', 'C_albicans': 'orf19.6086'}",small_scale_duplication,unclassified
+Cluster7637,gene:KLLA0_D14201g,K_lactis,paralog,['gene:KLLA0_F23529g'],"{'S_cerevisiae': 'gene-YNL104C', 'C_glabrata': 'CAGL0G06732g', 'C_albicans': 'orf19.6086'}",small_scale_duplication,unclassified
+Cluster7637,orf19.6086,C_albicans,paralog,['orf19.1375'],"{'S_cerevisiae': 'gene-YNL104C', 'C_glabrata': 'CAGL0G06732g', 'K_lactis': 'gene:KLLA0_F23529g'}",small_scale_duplication,unclassified
+Cluster7637,orf19.1375,C_albicans,paralog,['orf19.6086'],"{'S_cerevisiae': 'gene-YNL104C', 'C_glabrata': 'CAGL0G06732g', 'K_lactis': 'gene:KLLA0_F23529g'}",small_scale_duplication,unclassified
+Cluster7666,gene-YNCC0007C,S_cerevisiae,paralog,['gene-YNCJ0024W'],{'C_glabrata': 'CAGL0I04158r'},small_scale_duplication,unclassified
+Cluster7666,gene-YNCJ0024W,S_cerevisiae,paralog,['gene-YNCC0007C'],{'C_glabrata': 'CAGL0I04158r'},small_scale_duplication,unclassified
+Cluster7766,orf19.1187,C_albicans,paralog,['orf19.4941'],"{'S_cerevisiae': 'gene-YOR344C', 'C_glabrata': 'CAGL0E05566g', 'K_lactis': 'gene:KLLA0_F23353g'}",small_scale_duplication,unclassified
+Cluster7766,orf19.4941,C_albicans,paralog,['orf19.1187'],"{'S_cerevisiae': 'gene-YOR344C', 'C_glabrata': 'CAGL0E05566g', 'K_lactis': 'gene:KLLA0_F23353g'}",small_scale_duplication,unclassified
+Cluster7791,orf19.2871,C_albicans,paralog,['orf19.440'],"{'S_cerevisiae': 'gene-YKL148C', 'C_glabrata': 'CAGL0J00847g', 'K_lactis': 'gene:KLLA0_D04444g'}",small_scale_duplication,unclassified
+Cluster7791,orf19.440,C_albicans,paralog,['orf19.2871'],"{'S_cerevisiae': 'gene-YKL148C', 'C_glabrata': 'CAGL0J00847g', 'K_lactis': 'gene:KLLA0_D04444g'}",small_scale_duplication,unclassified
+Cluster8196,orf19.6801,C_albicans,paralog,['orf19.2834'],"{'S_cerevisiae': 'gene-YNL330C', 'C_glabrata': 'CAGL0B01441g', 'K_lactis': 'gene:KLLA0_E01981g'}",small_scale_duplication,unclassified
+Cluster8196,orf19.2834,C_albicans,paralog,['orf19.6801'],"{'S_cerevisiae': 'gene-YNL330C', 'C_glabrata': 'CAGL0B01441g', 'K_lactis': 'gene:KLLA0_E01981g'}",small_scale_duplication,unclassified
+Cluster8263,orf19.6316,C_albicans,paralog,['orf19.6654'],"{'S_cerevisiae': 'gene-YMR221C', 'C_glabrata': 'CAGL0F04015g', 'K_lactis': 'gene:KLLA0_C07040g'}",small_scale_duplication,unclassified
+Cluster8263,orf19.6654,C_albicans,paralog,['orf19.6316'],"{'S_cerevisiae': 'gene-YMR221C', 'C_glabrata': 'CAGL0F04015g', 'K_lactis': 'gene:KLLA0_C07040g'}",small_scale_duplication,unclassified
+Cluster8335,gene-YNCE0018W,S_cerevisiae,paralog,['gene-YNCI0011W'],{'C_glabrata': 'CAGL0H02981r'},small_scale_duplication,unclassified
+Cluster8335,gene-YNCI0011W,S_cerevisiae,paralog,['gene-YNCE0018W'],{'C_glabrata': 'CAGL0H02981r'},small_scale_duplication,unclassified
+Cluster8418,orf19.792,C_albicans,paralog,['orf19.791'],"{'S_cerevisiae': 'gene-YDL079C', 'C_glabrata': 'CAGL0L06820g', 'K_lactis': 'gene:KLLA0_F17006g'}",small_scale_duplication,unclassified
+Cluster8418,orf19.791,C_albicans,paralog,['orf19.792'],"{'S_cerevisiae': 'gene-YDL079C', 'C_glabrata': 'CAGL0L06820g', 'K_lactis': 'gene:KLLA0_F17006g'}",small_scale_duplication,unclassified
+Cluster8456,orf19.313,C_albicans,paralog,['orf19.360'],"{'S_cerevisiae': 'gene-YBR021W', 'C_glabrata': 'CAGL0B04433g', 'K_lactis': 'gene:KLLA0_D03454g'}",small_scale_duplication,unclassified
+Cluster8456,orf19.360,C_albicans,paralog,['orf19.313'],"{'S_cerevisiae': 'gene-YBR021W', 'C_glabrata': 'CAGL0B04433g', 'K_lactis': 'gene:KLLA0_D03454g'}",small_scale_duplication,unclassified
+Cluster8626,orf19.7596,C_albicans,paralog,['orf19.7597'],"{'S_cerevisiae': 'gene-YKL128C', 'C_glabrata': 'CAGL0K07524g', 'K_lactis': 'gene:KLLA0_B12628g'}",small_scale_duplication,unclassified
+Cluster8626,orf19.7597,C_albicans,paralog,['orf19.7596'],"{'S_cerevisiae': 'gene-YKL128C', 'C_glabrata': 'CAGL0K07524g', 'K_lactis': 'gene:KLLA0_B12628g'}",small_scale_duplication,unclassified
+Cluster8645,orf19.5917,C_albicans,paralog,['orf19.4961'],"{'S_cerevisiae': 'gene-YDR463W', 'C_glabrata': 'CAGL0K06413g', 'K_lactis': 'gene:KLLA0_F10109g'}",small_scale_duplication,unclassified
+Cluster8645,orf19.4961,C_albicans,paralog,['orf19.5917'],"{'S_cerevisiae': 'gene-YDR463W', 'C_glabrata': 'CAGL0K06413g', 'K_lactis': 'gene:KLLA0_F10109g'}",small_scale_duplication,unclassified
+Cluster8682,gene:KLLA0_D11022g,K_lactis,paralog,['gene:KLLA0_D11000g'],"{'S_cerevisiae': 'gene-YGL039W', 'C_albicans': 'orf19.6868'}",small_scale_duplication,unclassified
+Cluster8682,gene:KLLA0_D11000g,K_lactis,paralog,['gene:KLLA0_D11022g'],"{'S_cerevisiae': 'gene-YGL039W', 'C_albicans': 'orf19.6868'}",small_scale_duplication,unclassified
+Cluster874,orf19.105,C_albicans,paralog,['orf19.99'],"{'S_cerevisiae': 'gene-YOL064C', 'C_glabrata': 'CAGL0C05247g', 'K_lactis': 'gene:KLLA0_F24728g'}",small_scale_duplication,unclassified
+Cluster874,orf19.99,C_albicans,paralog,['orf19.105'],"{'S_cerevisiae': 'gene-YOL064C', 'C_glabrata': 'CAGL0C05247g', 'K_lactis': 'gene:KLLA0_F24728g'}",small_scale_duplication,unclassified
+Cluster8778,gene:KLLA0_E09109g,K_lactis,paralog,['gene:KLLA0_F04499g'],"{'S_cerevisiae': 'gene-YGL147C', 'C_glabrata': 'CAGL0E04994g', 'C_albicans': 'orf19.236'}",small_scale_duplication,unclassified
+Cluster8778,gene:KLLA0_F04499g,K_lactis,paralog,['gene:KLLA0_E09109g'],"{'S_cerevisiae': 'gene-YGL147C', 'C_glabrata': 'CAGL0E04994g', 'C_albicans': 'orf19.236'}",small_scale_duplication,unclassified
+Cluster8876,gene:KLLA0_B00451g,K_lactis,paralog,['gene:KLLA0_D19929g'],{'C_albicans': 'orf19.4287'},small_scale_duplication,unclassified
+Cluster8876,gene:KLLA0_D19929g,K_lactis,paralog,['gene:KLLA0_B00451g'],{'C_albicans': 'orf19.4287'},small_scale_duplication,unclassified
+Cluster9133,gene-YBR067C,S_cerevisiae,paralog,['gene-YIL011W'],{'C_glabrata': 'CAGL0F01463g'},small_scale_duplication,unclassified
+Cluster9133,gene-YIL011W,S_cerevisiae,paralog,['gene-YBR067C'],{'C_glabrata': 'CAGL0F01463g'},small_scale_duplication,unclassified
+Cluster9210,gene-YNCG0028W,S_cerevisiae,paralog,['gene-YNCJ0029W'],{'C_glabrata': 'CAGL0J01617r'},small_scale_duplication,unclassified
+Cluster9210,gene-YNCJ0029W,S_cerevisiae,paralog,['gene-YNCG0028W'],{'C_glabrata': 'CAGL0J01617r'},small_scale_duplication,unclassified
+Cluster9216,gene-YHR057C,S_cerevisiae,paralog,"['gene-YCR069W', 'gene-YNR028W']","{'C_glabrata': 'CAGL0H01529g', 'C_albicans': 'orf19.7421', 'K_lactis': 'gene:KLLA0_C08635g'}",small_scale_duplication,unclassified
+Cluster9216,gene-YCR069W,S_cerevisiae,paralog,"['gene-YHR057C', 'gene-YNR028W']","{'C_glabrata': 'CAGL0H01529g', 'C_albicans': 'orf19.7421', 'K_lactis': 'gene:KLLA0_C08635g'}",small_scale_duplication,unclassified
+Cluster9216,gene-YNR028W,S_cerevisiae,paralog,"['gene-YHR057C', 'gene-YCR069W']","{'C_glabrata': 'CAGL0H01529g', 'C_albicans': 'orf19.7421', 'K_lactis': 'gene:KLLA0_C08635g'}",small_scale_duplication,unclassified
+Cluster9221,orf19.7420,C_albicans,paralog,['orf19.7397.3'],"{'S_cerevisiae': 'gene-YHR058C', 'C_glabrata': 'CAGL0D03828g', 'K_lactis': 'gene:KLLA0_C10186g'}",small_scale_duplication,unclassified
+Cluster9221,orf19.7397.3,C_albicans,paralog,['orf19.7420'],"{'S_cerevisiae': 'gene-YHR058C', 'C_glabrata': 'CAGL0D03828g', 'K_lactis': 'gene:KLLA0_C10186g'}",small_scale_duplication,unclassified
+Cluster9340,gene-YNCL0050C,S_cerevisiae,paralog,['gene-YNCG0031W'],{'C_glabrata': 'CAGL0E00297r'},small_scale_duplication,unclassified
+Cluster9340,gene-YNCG0031W,S_cerevisiae,paralog,['gene-YNCL0050C'],{'C_glabrata': 'CAGL0E00297r'},small_scale_duplication,unclassified
+Cluster9386,gene:KLLA0_D07744g,K_lactis,paralog,['gene:KLLA0_D07766g'],"{'S_cerevisiae': 'gene-YNL142W', 'C_glabrata': 'CAGL0J06028g', 'C_albicans': 'orf19.5672'}",small_scale_duplication,unclassified
+Cluster9386,gene:KLLA0_D07766g,K_lactis,paralog,['gene:KLLA0_D07744g'],"{'S_cerevisiae': 'gene-YNL142W', 'C_glabrata': 'CAGL0J06028g', 'C_albicans': 'orf19.5672'}",small_scale_duplication,unclassified
+Cluster9466,orf19.2897,C_albicans,paralog,['orf19.2896'],{'K_lactis': 'gene:KLLA0_E24003g'},small_scale_duplication,unclassified
+Cluster9466,orf19.2896,C_albicans,paralog,['orf19.2897'],{'K_lactis': 'gene:KLLA0_E24003g'},small_scale_duplication,unclassified
+Cluster9506,orf19.6447,C_albicans,paralog,['orf19.5964'],"{'S_cerevisiae': 'gene-YDL192W', 'C_glabrata': 'CAGL0I03916g', 'K_lactis': 'gene:KLLA0_F05225g'}",small_scale_duplication,unclassified
+Cluster9506,orf19.5964,C_albicans,paralog,['orf19.6447'],"{'S_cerevisiae': 'gene-YDL192W', 'C_glabrata': 'CAGL0I03916g', 'K_lactis': 'gene:KLLA0_F05225g'}",small_scale_duplication,unclassified
+Cluster9516,orf19.24,C_albicans,paralog,['orf19.6224'],"{'S_cerevisiae': 'gene-YER185W', 'K_lactis': 'gene:KLLA0_F00264g'}",small_scale_duplication,unclassified
+Cluster9516,orf19.6224,C_albicans,paralog,['orf19.24'],"{'S_cerevisiae': 'gene-YER185W', 'K_lactis': 'gene:KLLA0_F00264g'}",small_scale_duplication,unclassified
+Cluster96,tS(GCU)1,unknown,paralog,['tS(GCU)2'],"{'S_cerevisiae': 'gene-YNCF0009C', 'C_glabrata': 'CAGL0H01991r'}",small_scale_duplication,unclassified
+Cluster96,tS(GCU)2,unknown,paralog,['tS(GCU)1'],"{'S_cerevisiae': 'gene-YNCF0009C', 'C_glabrata': 'CAGL0H01991r'}",small_scale_duplication,unclassified
+Cluster96,CAGL0H01991r,C_glabrata,paralog,['CAGL0M01012r'],{'S_cerevisiae': 'gene-YNCF0009C'},small_scale_duplication,unclassified
+Cluster96,CAGL0M01012r,C_glabrata,paralog,['CAGL0H01991r'],{'S_cerevisiae': 'gene-YNCF0009C'},small_scale_duplication,unclassified
+Cluster96,gene-YNCF0009C,S_cerevisiae,paralog,['gene-YNCO0008W'],{'C_glabrata': 'CAGL0H01991r'},small_scale_duplication,unclassified
+Cluster96,gene-YNCO0008W,S_cerevisiae,paralog,['gene-YNCF0009C'],{'C_glabrata': 'CAGL0H01991r'},small_scale_duplication,unclassified
+Cluster969,orf19.5270,C_albicans,paralog,['orf19.5278'],"{'S_cerevisiae': 'gene-YJR111C', 'C_glabrata': 'CAGL0C04873g', 'K_lactis': 'gene:KLLA0_E05831g'}",small_scale_duplication,unclassified
+Cluster969,orf19.5278,C_albicans,paralog,['orf19.5270'],"{'S_cerevisiae': 'gene-YJR111C', 'C_glabrata': 'CAGL0C04873g', 'K_lactis': 'gene:KLLA0_E05831g'}",small_scale_duplication,unclassified
+Cluster97,orf19.281,C_albicans,paralog,['orf19.295'],{'K_lactis': 'gene:KLLA0_C03278g'},small_scale_duplication,unclassified
+Cluster97,orf19.295,C_albicans,paralog,['orf19.281'],{'K_lactis': 'gene:KLLA0_C03278g'},small_scale_duplication,unclassified
